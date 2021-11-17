@@ -30,7 +30,7 @@ Teste feito para a vaga fullstack de B9Sistemas.
 _Clone the project and access the folder_
 
 ```bash
-$ git clone https://github.com/MateusPequeno/.git
+$ git clone https://github.com/MateusPequeno/testeb9-fe.git
 $ cd teste-be
 $ yarn install
 $ yarn dev
