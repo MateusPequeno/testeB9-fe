@@ -17,6 +17,7 @@ export interface DataIterface {
   prices: number;
   stockQuantity: number;
 }
+console.log("change");
 const Products: React.FC = () => {
   const [productsList, setProductsList] = useState<DataIterface[]>([]);
   const [newProductName, setNewProductName] = useState<string>("");
